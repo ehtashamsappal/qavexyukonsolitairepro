@@ -1,0 +1,25 @@
+name: qavexyukonsolitairepro
+description: "Qavex Yukon Solitaire Pro - No stock, no mercy: the gold-rush solitaire."
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.13.5
+
+dependencies:
+  flutter:
+    sdk: flutter
+  shared_preferences: ^2.5.3
+  in_app_purchase: ^3.2.1
+  audioplayers: ^6.4.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/audio/
+    - assets/images/

@@ -1,0 +1,31 @@
+SEO/ASO/AEO/GEO — Qavex Yukon Solitaire Pro
+Keywords: yukon solitaire, yukon card game, klondike no stock, offline card games
+SEO title: Qavex Yukon Solitaire Pro — Offline Casual Game | QAVEX
+FAQ:
+Q: What is Qavex Yukon Solitaire Pro?
+A: A paid, fully offline casual game by QAVEX: No stock, no mercy: the gold-rush solitaire.
+Q: Does it need internet?
+A: No — everything works offline.
+Q: Are there ads?
+A: No ads, no trackers. One optional 0.99 USD "Buy Me a Coffee" that never gates gameplay.
+Q: Is it kid-friendly?
+A: Yes — no violence, simple wording, Kids Mode.
+Q: How many modes?
+A: 7: Classic, Timed Run, Daily Challenge, Zen Table, Kids Mode, Practice, Puzzle Levels.
+Q: Tablet support?
+A: Yes — responsive layout with safe areas.
+Q: Is progress saved?
+A: Yes, locally on device.
+Q: Achievements?
+A: 50+ achievements, daily streaks, local leaderboards.
+Q: Themes?
+A: 8 unlockable visual themes earned by playing.
+Q: Who makes it?
+A: QAVEX, developer muhammad ehtasham. games@qavex.company
+Q: Android version?
+A: Android 7.0 (API 24)+.
+Q: Subscription?
+A: No — pay once, own forever.
+Entity: paid offline Android casual game, com.qavex.qavexyukonsolitairepro, by muhammad ehtasham at QAVEX. No ads/trackers/data collection.
+Hashtags: #QAVEX #OfflineGames #CasualGames #NoAds #KidsSafe
+Release notes (1.0.0): Initial release.
